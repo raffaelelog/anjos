@@ -1,0 +1,9 @@
+[18-Oct-2017 08:26:42 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/anjosso/public_html/faturas.php on line 7
+[18-Oct-2017 08:27:56 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/anjosso/public_html/faturas.php on line 36
+[18-Oct-2017 08:28:01 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/anjosso/public_html/faturas.php on line 36
+[18-Oct-2017 08:53:35 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/anjosso/public_html/faturas.php on line 32
+[18-Oct-2017 08:53:37 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/anjosso/public_html/faturas.php on line 32
+[18-Oct-2017 08:53:38 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/anjosso/public_html/faturas.php on line 32
+[18-Oct-2017 08:53:58 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/anjosso/public_html/faturas.php on line 32
+[21-Oct-2017 17:03:10 America/Chicago] PHP Parse error:  syntax error, unexpected '.22' (T_DNUMBER) in /home/anjosso/public_html/faturas.php on line 53
+[21-Oct-2017 17:03:38 America/Chicago] PHP Parse error:  syntax error, unexpected '.1' (T_DNUMBER) in /home/anjosso/public_html/faturas.php on line 61

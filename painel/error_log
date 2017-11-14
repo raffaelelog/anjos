@@ -1,0 +1,23 @@
+[06-Sep-2017 19:06:35 America/Sao_Paulo] PHP Fatal error:  Call to a member function result() on a non-object in /home/anjosso/public_html/painel/application/views/cadastros/index.php on line 59
+[06-Sep-2017 19:06:38 America/Sao_Paulo] PHP Fatal error:  Call to a member function result() on a non-object in /home/anjosso/public_html/painel/application/views/cadastros/index.php on line 59
+[06-Sep-2017 19:10:56 America/Sao_Paulo] PHP Fatal error:  Call to a member function result() on a non-object in /home/anjosso/public_html/painel/application/views/cadastros/index.php on line 59
+[06-Sep-2017 19:10:59 America/Sao_Paulo] PHP Fatal error:  Call to a member function result() on a non-object in /home/anjosso/public_html/painel/application/views/cadastros/index.php on line 59
+[06-Sep-2017 19:19:26 America/Sao_Paulo] PHP Fatal error:  Call to a member function result() on a non-object in /home/anjosso/public_html/painel/application/views/cadastros/index.php on line 127
+[06-Sep-2017 19:20:29 America/Sao_Paulo] PHP Fatal error:  Call to a member function result() on a non-object in /home/anjosso/public_html/painel/application/views/cadastros/index.php on line 127
+[18-Sep-2017 19:50:28 America/Sao_Paulo] PHP Fatal error:  Call to a member function result() on a non-object in /home/anjosso/public_html/painel/application/views/cadastros/index.php on line 187
+[19-Sep-2017 08:55:00 America/Sao_Paulo] PHP Fatal error:  Call to a member function result() on a non-object in /home/anjosso/public_html/painel/application/views/cadastros/index.php on line 187
+[19-Sep-2017 08:55:20 America/Sao_Paulo] PHP Fatal error:  Call to a member function result() on a non-object in /home/anjosso/public_html/painel/application/views/cadastros/index.php on line 187
+[19-Sep-2017 08:56:00 America/Sao_Paulo] PHP Fatal error:  Call to a member function result() on a non-object in /home/anjosso/public_html/painel/application/views/cadastros/index.php on line 187
+[19-Sep-2017 08:57:50 America/Sao_Paulo] PHP Fatal error:  Call to a member function result() on a non-object in /home/anjosso/public_html/painel/application/views/cadastros/index.php on line 187
+[19-Sep-2017 09:07:10 America/Sao_Paulo] PHP Fatal error:  Call to a member function result() on a non-object in /home/anjosso/public_html/painel/application/views/cadastros/index.php on line 187
+[19-Sep-2017 09:07:19 America/Sao_Paulo] PHP Fatal error:  Call to a member function result() on a non-object in /home/anjosso/public_html/painel/application/views/cadastros/index.php on line 187
+[20-Sep-2017 08:54:17 America/Sao_Paulo] PHP Fatal error:  Call to a member function result() on a non-object in /home/anjosso/public_html/painel/application/views/cadastros/index.php on line 187
+[09-Oct-2017 15:59:37 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/anjosso/public_html/painel/application/controllers/Faturas.php on line 25
+[09-Oct-2017 15:59:41 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/anjosso/public_html/painel/application/controllers/Faturas.php on line 25
+[09-Oct-2017 16:00:16 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/anjosso/public_html/painel/application/controllers/Faturas.php on line 25
+[09-Oct-2017 16:00:18 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/anjosso/public_html/painel/application/controllers/Faturas.php on line 25
+[09-Oct-2017 16:31:15 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}' in /home/anjosso/public_html/painel/application/views/faturas/print.php on line 37
+[10-Oct-2017 09:02:28 America/Sao_Paulo] PHP Fatal error:  Call to a member function result() on a non-object in /home/anjosso/public_html/painel/application/views/faturas/index.php on line 123
+[10-Oct-2017 09:02:51 America/Sao_Paulo] PHP Fatal error:  Call to a member function result() on a non-object in /home/anjosso/public_html/painel/application/views/faturas/index.php on line 123
+[29-Oct-2017 09:14:21 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}' in /home/anjosso/public_html/painel/application/controllers/Cadastros.php on line 58
+[29-Oct-2017 09:14:24 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}' in /home/anjosso/public_html/painel/application/controllers/Cadastros.php on line 58
