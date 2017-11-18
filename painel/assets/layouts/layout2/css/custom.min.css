@@ -1,0 +1,12 @@
+.custom-combobox-input, .ui-widget, .ui-state-default{
+	background-color: #FFF;
+}
+.ui-widget-content{
+	background-color: #FFF;
+	border:1px solid #999;
+}
+
+.ui-widget-content li:hover{
+	display: block;
+	background: #CCC;
+	}
